@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "style-dictionary": "^3.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatanCavasin/Figma4devs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NatanCavasin/Figma4devs/issues"
+  },
+  "homepage": "https://github.com/NatanCavasin/Figma4devs#readme"
 }
